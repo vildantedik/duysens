@@ -45,6 +45,3 @@ LCD ekranda yazı görünmezse I2C adresi `0x27` yerine `0x3F` olabilir. Koddaki
 ![Devre kurulumu](images/devre-1.jpg)
 ![LCD ekran](images/devre-2.jpg)
 
-## Not
-
-Bu bir okul/öğrenme projesidir.
